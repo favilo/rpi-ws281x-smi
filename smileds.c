@@ -18,6 +18,7 @@
 #include "smi/rpi_smi_defs.h"
 #include "smileds.h"
 
+
 // Structures for mapped I/O devices, and non-volatile memory
 extern MEM_MAP gpio_regs, clk_regs, dma_regs;
 MEM_MAP vc_mem, smi_regs;
